@@ -1,4 +1,4 @@
-# Xilinx Package Detection using Yolo
+# Package Detection using Yolo
 
 This set of Notebooks was taken from https://github.com/nicknochnack/YOLO-Drowsiness-Detection by following the [Youtube Tutorial](https://youtu.be/tFNJGim3FXw) from 
 Nicholas Renotte's [YouTube channel](https://www.youtube.com/c/nicholasrenotte). The differences are the training dataset was modified to detect packages.
